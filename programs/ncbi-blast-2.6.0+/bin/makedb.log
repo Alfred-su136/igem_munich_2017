@@ -1,0 +1,13 @@
+Error: Argument "dbtype". Illegal value, expected `nucl', `prot':  `DNA'
+Error:  (CArgException::eConstraint) Argument "dbtype". Illegal value, expected `nucl', `prot':  `DNA'
+Error: Argument "dbtype". Mandatory value is missing:  `String, `nucl', `prot''
+Error:  (CArgException::eNoArg) Argument "dbtype". Mandatory value is missing:  `String, `nucl', `prot''
+
+
+Building a new DB, current time: 10/02/2017 15:13:41
+New DB name:   /Users/sven/Desktop/IGEM/Program/progress/blast/db/full_db.fa
+New DB title:  ../../progress/blast/db/full_db.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 232037 sequences in 20.2478 seconds.
