@@ -4,6 +4,8 @@
 The folder db has to be downloaded externally since the Transcriptome databank exceeded the 25 MB limit for GitHub. Please find it here:
 https://1drv.ms/f/s!AjkLLOd6IUjPhqA0dP3WyIem-GkIAg
 
+The program needs to be run from the home directory of the program. 
+
 
 INSTALLATION GUIDE
 
@@ -18,10 +20,6 @@ alias blastx='$BLASTHOME/blastx'
 alias blastn='$BLASTHOME/blastn'
 alias makeblastdb='$BLASTHOME/makeblastdb'
 alias blastn-short='$BLASTHOME/blastn-short'
-#alias blastx='/Users/sven/Desktop/IGEM/Program/progress/blast/ncbi-blast-2.6.0+/bin/blastx'
-#alias blastn='/Users/sven/Desktop/IGEM/Program/progress/blast/ncbi-blast-2.6.0+/bin/blastn'
-#alias makeblastdb='/Users/sven/Desktop/IGEM/Program/progress/blast/ncbi-blast-2.6.0+/bin/makeblastdb'
-#alias blastn-short='/Users/sven/Desktop/IGEM/Program/progress/blast/ncbi-blast-2.6.0+/bin/blastn-short'
 export PATH=$PATH:$HOME/Desktop/IGEM/Program/progress/blast/ncbi-blast-2.6.0+/bin/
 
 alias nupack_mfe='$NUPACKHOME/bin/mfe'
