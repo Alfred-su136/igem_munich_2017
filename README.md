@@ -11,8 +11,8 @@ INSTALLATION GUIDE
 
 If you run into problems during installation, please contact: 
 
-Sven Klumpe
-iGEM Team Munich 2017
+Sven Klumpe;
+iGEM Team Munich 2017;
 E-Mail: sven.klumpe (at) tum.de
 
 Please add the following to your .bashrc / .bash_profile:
