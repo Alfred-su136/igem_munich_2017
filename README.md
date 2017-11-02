@@ -9,7 +9,7 @@ The program needs to be run from the home directory of the program.
 
 INSTALLATION GUIDE
 
-Please add the following to your .bashrc :
+Please add the following to your .bashrc / .bash_profile:
 
 
 export BLASTHOME= ENTER BLAST HOME DIRECTORY HERE
@@ -25,3 +25,10 @@ export PATH=$PATH:$HOME/Desktop/IGEM/Program/progress/blast/ncbi-blast-2.6.0+/bi
 alias nupack_mfe='$NUPACKHOME/bin/mfe'
 alias nupack_subopt='$NUPACKHOME/bin/subopt'
 alias nupack_pfunc='$NUPACKHOME/bin/pfunc'
+
+
+If you run into problems with the NUPACK and Blast binaries, please install them from their webpages. The installation guides can be found here: 
+
+http://www.nupack.org/downloads
+
+https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download
